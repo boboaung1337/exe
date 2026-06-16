@@ -9,3 +9,6 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/check && sudo mv ch
 ```bash
 wget https://github.com/boboaung1337/again/releases/download/v0/kerbrute && sudo mv kerbrute /usr/bin/kerbrute && sudo chmod +x /usr/bin/kerbrute
 ```
+```bash
+wget https://github.com/boboaung1337/fixtime/raw/refs/heads/main/fixtime && sudo mv fixtime /usr/bin/fixtime && sudo chmod +x /usr/bin/fixtime
+```
