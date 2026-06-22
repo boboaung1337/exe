@@ -1,5 +1,5 @@
 # exe
-testing....
+
 ```bash
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/scanner && sudo mv scanner /usr/bin/scanner && sudo chmod +x /usr/bin/scanner
 ```
@@ -12,6 +12,10 @@ wget https://github.com/boboaung1337/again/releases/download/v0/kerbrute && sudo
 ```bash
 wget https://github.com/boboaung1337/fixtime/raw/refs/heads/main/fixtime && sudo mv fixtime /usr/bin/fixtime && sudo chmod +x /usr/bin/fixtime
 ```
+```bash
+wget https://github.com/boboaung1337/exe/raw/refs/heads/main/boxc && sudo mv boxc /usr/bin/boxc && sudo chmod +x /usr/bin/boxc
+```
+
 ```bash
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/dns && sudo mv dns /usr/bin/dns && sudo chmod +x /usr/bin/dns
 ```
