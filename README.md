@@ -18,6 +18,9 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/nxcsmb && sudo mv n
 ```bash
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/boxc && sudo mv boxc /usr/bin/boxc && sudo chmod +x /usr/bin/boxc
 ```
+```bash
+wget https://github.com/boboaung1337/exe/raw/refs/heads/main/fuzzer && sudo mv fuzzer /usr/bin/fuzzer && sudo chmod +x /usr/bin/fuzzer
+```
 
 ```bash
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/dns && sudo mv dns /usr/bin/dns && sudo chmod +x /usr/bin/dns
