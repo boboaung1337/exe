@@ -13,10 +13,7 @@ wget https://github.com/boboaung1337/again/releases/download/v0/kerbrute && sudo
 wget https://github.com/boboaung1337/fixtime/raw/refs/heads/main/fixtime && sudo mv fixtime /usr/bin/fixtime && sudo chmod +x /usr/bin/fixtime
 ```
 ```bash
-wget https://github.com/boboaung1337/exe/raw/refs/heads/main/nxcsmb && sudo mv nxcsmb /usr/bin/nxcsmb && sudo chmod +x /usr/bin/nxcsmb
-```
-```bash
-wget https://github.com/boboaung1337/exe/raw/refs/heads/main/boxc && sudo mv boxc /usr/bin/boxc && sudo chmod +x /usr/bin/boxc
+wget https://github.com/boboaung1337/exe/raw/refs/heads/main/autonxc && sudo mv autonxc /usr/bin/autonxc && sudo chmod +x /usr/bin/autonxc
 ```
 ```bash
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/fuzzer && sudo mv fuzzer /usr/bin/fuzzer && sudo chmod +x /usr/bin/fuzzer
