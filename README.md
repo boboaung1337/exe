@@ -37,3 +37,9 @@ wget https://github.com/boboaung1337/again/raw/refs/heads/main/windapsearch.py &
 ```bash
 wget https://github.com/boboaung1337/again/raw/refs/heads/main/targetedKerberoast.py && sudo mv targetedKerberoast.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/targetedKerberoast.py
 ```
+```bash
+wget https://github.com/boboaung1337/again/raw/refs/heads/main/gMSADumper.py && sudo mv gMSADumper.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/gMSADumper.py
+```
+
+
+
