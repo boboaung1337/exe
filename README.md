@@ -22,6 +22,6 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/fuzzer && sudo mv f
 ```bash
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/dns && sudo mv dns /usr/bin/dns && sudo chmod +x /usr/bin/dns
 ```
-
-
-
+```bash
+wget https://github.com/boboaung1337/again/raw/refs/heads/main/server.py && sudo mv server.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/server.py
+```
