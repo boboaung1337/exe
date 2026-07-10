@@ -25,3 +25,6 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/dns && sudo mv dns 
 ```bash
 wget https://github.com/boboaung1337/again/raw/refs/heads/main/server.py && sudo mv server.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/server.py
 ```
+```bash
+wget https://github.com/boboaung1337/again/raw/refs/heads/main/windapsearch.py && sudo mv windapsearch.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/windapsearch.py
+```
