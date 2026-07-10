@@ -34,3 +34,6 @@ wget https://github.com/boboaung1337/again/raw/refs/heads/main/server.py && sudo
 ```bash
 wget https://github.com/boboaung1337/again/raw/refs/heads/main/windapsearch.py && sudo mv windapsearch.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/windapsearch.py
 ```
+```bash
+wget https://github.com/boboaung1337/again/raw/refs/heads/main/targetedKerberoast.py && sudo mv targetedKerberoast.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/targetedKerberoast.py
+```
