@@ -23,6 +23,12 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/fuzzer && sudo mv f
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/dns && sudo mv dns /usr/bin/dns && sudo chmod +x /usr/bin/dns
 ```
 ```bash
+dns inlanefreight.htb -n 10.129.5.3 -e -W /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-5000.txt
+
+dns inlanefreight.htb -n 10.129.5.3 -e -v -o inlanefreight_report.html
+```
+
+```bash
 wget https://github.com/boboaung1337/again/raw/refs/heads/main/server.py && sudo mv server.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/server.py
 ```
 ```bash
