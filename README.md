@@ -40,6 +40,7 @@ wget https://github.com/boboaung1337/again/raw/refs/heads/main/targetedKerberoas
 ```bash
 wget https://github.com/boboaung1337/again/raw/refs/heads/main/gMSADumper.py && sudo mv gMSADumper.py /usr/local/bin/ && sudo chmod +x /usr/local/bin/gMSADumper.py
 ```
-
-
+```bash
+wget https://github.com/boboaung1337/again/raw/refs/heads/main/upload_server.py && sudo mv upload_server.py /usr/local/bin/uploadserver.py  && sudo chmod +x /usr/local/bin/uploadserver.py
+```
 
