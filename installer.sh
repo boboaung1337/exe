@@ -5,10 +5,6 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/scannerv2
 sudo mv scannerv2 /usr/local/bin/scanner
 sudo chmod +x /usr/local/bin/scanner
 
-# Download and install check
-wget https://github.com/boboaung1337/exe/raw/refs/heads/main/check
-sudo mv check /usr/local/bin/checkport
-sudo chmod +x /usr/local/bin/checkport
 
 # Download and install dns
 wget https://github.com/boboaung1337/exe/raw/refs/heads/main/dns
@@ -40,9 +36,5 @@ wget https://github.com/boboaung1337/exe/raw/refs/heads/main/keepass4brute
 sudo mv keepass4brute /usr/local/bin
 sudo chmod +x /usr/local/bin/keepass4brute
 
-# Download and install fixtime
-wget https://github.com/watcher1337/fixtime/raw/refs/heads/main/fixtime_amd
-sudo mv fixtime_amd /usr/local/bin/fixtime
-sudo chmod +x /usr/local/bin/fixtime
 
 echo "All tools installed!"
